@@ -1,5 +1,7 @@
 # Proyecto: Predicción de Deserción Estudiantil
 
+# Hola Mundo
+
 ## 1. Descripción del Problema
 La deserción de estudiantes en el primer año universitario genera un impacto académico y económico crítico. La detección de alumnos en riesgo suele ser tardía, cuando ya han reprobado asignaturas clave. Este proyecto desarrolla un modelo analítico para identificar de forma temprana a los estudiantes con alta probabilidad de abandono durante las primeras semanas de clases. Los tomadores de decisiones son las Direcciones de Carrera y los coordinadores de acompañamiento académico. Su resolución permitirá desplegar tutorías preventivas personalizadas, mejorando la retención estudiantil en un 15% y optimizando la asignación de becas de apoyo.
 
@@ -15,7 +17,7 @@ La deserción de estudiantes en el primer año universitario genera un impacto a
 
 ## 3. Relación del Proyecto con CRISP-DM
 
-| Fase | ¿Cómo se aplicaría en su proyecto? |
+| Fase | ¿Cómo se aplicaría en su proyecto?  |
 | :--- | :--- |
 | **Business Understanding** | Definición del problema de retención estudiantil, identificación de directores de carrera como clientes y establecimiento de la meta de reducción de deserción. |
 | **Data Understanding** | Exploración de registros académicos históricos, perfiles de ingreso y registros de asistencia para verificar calidad de datos y distribuciones. |
