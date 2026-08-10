@@ -1,6 +1,6 @@
 # Proyecto: Predicción de Deserción Estudiantil
 
-# Hola Mundo
+# Hola Mundo XDXDXDXD
 
 ## 1. Descripción del Problema
 La deserción de estudiantes en el primer año universitario genera un impacto académico y económico crítico. La detección de alumnos en riesgo suele ser tardía, cuando ya han reprobado asignaturas clave. Este proyecto desarrolla un modelo analítico para identificar de forma temprana a los estudiantes con alta probabilidad de abandono durante las primeras semanas de clases. Los tomadores de decisiones son las Direcciones de Carrera y los coordinadores de acompañamiento académico. Su resolución permitirá desplegar tutorías preventivas personalizadas, mejorando la retención estudiantil en un 15% y optimizando la asignación de becas de apoyo.
