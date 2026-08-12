@@ -1,4 +1,4 @@
-# Proyecto: Predicción de Deserción Estudiantil
+#  Predicción de Deserción Estudiantil
 
 ## 1. Descripción del Problema
 La deserción de estudiantes en el primer año universitario genera un impacto académico y económico crítico. La detección de alumnos en riesgo suele ser tardía, cuando ya han reprobado asignaturas clave. Este proyecto desarrolla un modelo analítico para identificar de forma temprana a los estudiantes con alta probabilidad de abandono durante las primeras semanas de clases. Los tomadores de decisiones son las Direcciones de Carrera y los coordinadores de acompañamiento académico. Su resolución permitirá desplegar tutorías preventivas personalizadas, mejorando la retención estudiantil en un 15% y optimizando la asignación de becas de apoyo.
@@ -24,7 +24,7 @@ La deserción de estudiantes en el primer año universitario genera un impacto a
 | **Evaluation** | Validación de modelos usando métricas como *Recall* y *F1-Score* para priorizar la detección correcta de verdaderos estudiantes en riesgo. |
 | **Deployment** | Creación de un panel o reporte automatizado para enviar alertas tempranas al equipo de tutorías académicas antes del segundo parcial. |
 
-# Proyecto: Predicción y Optimización de Ventas en Supermercados
+#  Predicción y Optimización de Ventas en Supermercados
 
 ## 1. Descripción del Problema
 La alta variabilidad en la demanda de productos dentro de las sucursales de supermercados genera constantes quiebres de stock y pérdidas económicas por vencimiento de productos. Actualmente, las decisiones de reabastecimiento se toman según promedios históricos manuales, sin considerar el impacto de promociones, estacionalidad o días festivos. Este proyecto busca desarrollar un modelo predictivo para estimar la demanda semanal por categoría de producto. Los tomadores de decisiones son la Gerencia de Operaciones y los Jefes de Logística y Abastecimiento. Resolver esta problemática permitirá optimizar las órdenes de compra a proveedores, reduciendo la merma en un 20% y asegurando la disponibilidad de stock en góndola.
